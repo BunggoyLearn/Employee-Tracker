@@ -1,0 +1,8 @@
+{
+    "name": "employee-tracker",
+    "version": "1.0.0",
+    "author": "Your Name <email@example.com>",
+    "dependencies": {
+        "inquirer": "^9.3.2"
+    }
+}
