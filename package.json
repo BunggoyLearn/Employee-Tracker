@@ -3,6 +3,8 @@
     "version": "1.0.0",
     "author": "Your Name <email@example.com>",
     "dependencies": {
-        "inquirer": "^9.3.2"
+        "dotenv": "^16.4.5",
+        "inquirer": "^9.3.6",
+        "pg": "^8.12.0"
     }
 }
